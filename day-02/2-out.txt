@@ -1,0 +1,1 @@
+Sum of the power of sets is 69629
